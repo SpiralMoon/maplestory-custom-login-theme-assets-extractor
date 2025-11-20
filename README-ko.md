@@ -66,7 +66,7 @@ $ dotnet run
       "code": "0",
       "name": "세계수 아래(낮)",
       "bgm": "BgmUI/Title",
-      "lvImageType": "light"
+      "lv_image_type": "light"
     },
     ... other custom login themes
   ]

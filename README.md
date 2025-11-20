@@ -66,7 +66,7 @@ $ dotnet run
       "code": "0",
       "name": "Under the World Tree (Day)",
       "bgm": "BgmUI/Title",
-      "lvImageType": "light"
+      "lv_image_type": "light"
     },
     ... other custom login themes
   ]

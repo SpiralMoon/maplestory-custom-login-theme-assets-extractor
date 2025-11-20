@@ -22,7 +22,7 @@ namespace CustomLoginThemeExtractor
         [JsonProperty("bgm")]
         public string Bgm { get; set; } = string.Empty;
 
-        [JsonProperty("lvImageType")]
+        [JsonProperty("lv_image_type")]
         public string LvImageType { get; set; } = string.Empty;
     }
 }
