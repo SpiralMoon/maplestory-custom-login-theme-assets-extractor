@@ -54,7 +54,7 @@ $ dotnet run
 ### Sound File Output
 - Output location: `output/sounds/`
 - Character selection screen background music files
-  <img width="912" height="539" alt="image" src="https://github.com/user-attachments/assets/36e7fa68-df1b-4588-9235-685ebe2aad62" />
+  <img width="912" height="539" alt="image" src="https://github.com/user-attachments/assets/e87cf6f7-65dc-4044-8c97-6f33af4bb587" />
 
 ### Custom Login Theme Information
 - Output location: `output/custom_login_theme.json`

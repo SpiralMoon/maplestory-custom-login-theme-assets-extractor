@@ -126,7 +126,7 @@ try
         Wz_Node nodeBgm = imgBgm.Node.Nodes[bgmName];
         Wz_Sound soundBgm = nodeBgm.GetValue<Wz_Sound>();
 
-        soundBgm.SaveToMp3(Path.Combine(soundsDir, $"{nodeBgm.FullPath.Replace("\\", ".")}.{bgmName}.mp3"));
+        soundBgm.SaveToMp3(Path.Combine(soundsDir, $"{nodeBgm.FullPath.Replace("\\", ".")}.mp3"));
 
         string name = nodeCustomLoginTheme.Nodes["name"].GetValue<string>();
         string lvImageType = nodeCustomLoginTheme.Nodes["lvImageType"].GetValue<string>();
